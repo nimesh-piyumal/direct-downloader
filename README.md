@@ -22,13 +22,15 @@
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/nimesh-piyumal/direct-downloader.git
-   cd direct-downloader
+```bash
+git clone https://github.com/nimesh-piyumal/direct-downloader.git
+cd direct-downloader
+```
 
 2. Install dependencies:
-   ```bash
-   npm install
+```bash
+npm install
+```
 
  3. Start the bot
  ```bash
