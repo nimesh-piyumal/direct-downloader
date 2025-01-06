@@ -1,0 +1,24 @@
+{
+  "name": "direct-downloader",
+  "version": "1.0.0",
+  "description": "Simple Direct Downloader WhatsApp Bot @darkcriminal/baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nimesh Piyumal",
+  "license": "MIT",
+  "dependencies": {
+    "@dark-yasiya/yt-dl.js": "^1.0.5",
+    "@darkcriminal/baileys": "^2.0.0",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.7.9",
+    "chalk": "4.0.0",
+    "file-type": "16.5.3",
+    "fs": "^0.0.1-security",
+    "megajs": "^1.3.5",
+    "path": "^0.12.7",
+    "pino": "^9.6.0",
+    "ruhend-scraper": "^8.0.8"
+  }
+}
