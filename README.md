@@ -23,7 +23,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/darkcriminal/direct-downloader.git
+   git clone https://github.com/nimesh-piyumal/direct-downloader.git
    cd direct-downloader
 
 2. Install dependencies:
